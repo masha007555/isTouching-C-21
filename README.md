@@ -1,2 +1,2 @@
-# isTouching-C-21
-Collision between two objects
+# collisionAlgorithm
+Algorithm to detect collision between two objects
